@@ -5,7 +5,8 @@
 Sou estudante de Ciência da Computação e profissional focada no desenvolvimento de soluções back-end, automação e manipulação de bancos de dados relacionais e cibersegurança. Adoro transformar problemas do cotidiano em microsserviços eficientes colocados em produção na nuvem.
 
 * 📍 Desenvolvendo projetos práticos com foco em escalabilidade e clean code.
-* 📫 Como me encontrar: https://www.linkedin.com/in/vitoria-m-silva
+* 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-m-silva)
 
 ---
 
