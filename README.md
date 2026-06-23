@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação e profissional focada no desenvolvimen
 
 * 📍 Desenvolvendo projetos práticos com foco em escalabilidade e clean code.
 * 📫 Como me encontrar:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-m-silva)
+<p align="left"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-m-silva)
 
 ---
 
